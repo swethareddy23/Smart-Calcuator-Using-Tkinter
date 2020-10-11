@@ -37,5 +37,6 @@ Import the module - "tkinter"</br>
    Define two functions one to extract the numbers from the main one second to use the numbers to make he sum or difference according to the operator present.
    > |def extract_from_text(text): <br/>
    > |def calculate(): <br/>
+   
    use for, if-elif, try-except conditionals for the logic of the function to execute. 
 

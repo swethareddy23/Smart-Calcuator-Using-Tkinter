@@ -3,9 +3,12 @@ Creating a calculator using Tkinter</br>
 Python offers various options for developing Graphical User Interface. </br>
 Out of all  "Tkinter" is most commonly used method.</br>
 ### Algorithm
-Front end</br>
+Importing libraries</br>
+Front End </br> 
 Math operations</br>
 Operations list</br>
 Calculate</br>
-## Tkinter
-
+## Importing libraries
+### Tkinter
+Import the module - tkinter</br>
+#### Front end

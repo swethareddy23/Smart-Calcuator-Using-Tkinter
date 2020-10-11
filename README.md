@@ -34,7 +34,7 @@ Import the module - "tkinter"</br>
    Define a dictionary  which contains all the similar words related to the operations like for addition  (plus, add, sum)  and for modulus  (mod, remainder, modulus) these kind of words
    
    ## Calculation
-   Define two functions one to extract the numbers from the main one second to use the numbers to make he sum or difference according to the operator present.
+   Define two functions one to extract the numbers from the main one second to use the numbers to make the sum or difference according to the operator present.
    > |-def extract_from_text(text): <br/>
    > |-def calculate(): <br/>
    

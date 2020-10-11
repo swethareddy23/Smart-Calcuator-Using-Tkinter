@@ -27,10 +27,10 @@ Import the module - "tkinter"</br>
 * Create the windowed main loop
    > |--win.mainloop() <br/>
    
-   ## Math operations
+## Math operations
    Define the functions for addition, subtraction, multiplication, modulus , division, HCF and other mathematical operations and return the values.
    
-   ## Operations list
+## Operations list
    Define a dictionary  which contains all the similar words related to the operations like for addition  (plus, add, sum)  and for modulus  (mod, remainder, modulus) these kind of words
    
    ## Calculation

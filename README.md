@@ -24,4 +24,11 @@ Import the module - "tkinter"</br>
   * Create labels for the window
   * Create buttons for the result 
   * Create the listbox to display the result on the window.
-  
+  * Create the windowed main loop
+   > |--win.mainloop() <br/>
+   
+   ## Math operations
+   Define the functions for addition, subtraction, multiplication, modulus , division, HCF and other mathematical operations and return the values.
+   
+   ## Operations list
+   

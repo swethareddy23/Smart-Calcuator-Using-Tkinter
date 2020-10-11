@@ -19,12 +19,12 @@ Import the module - "tkinter"</br>
  
 * Create window title 
 > |--win.title('title name')  <br/>
- * Set the background colour
+* Set the background colour
 > |--win.configure(bg='colour') <br/>
-  * Create labels for the window
-  * Create buttons for the result 
-  * Create the listbox to display the result on the window.
-  * Create the windowed main loop
+* Create labels for the window
+* Create buttons for the result 
+* Create the listbox to display the result on the window.
+* Create the windowed main loop
 > |--win.mainloop() <br/>
    
    ## Math operations

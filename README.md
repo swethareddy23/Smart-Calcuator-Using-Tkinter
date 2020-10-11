@@ -12,3 +12,6 @@ Calculate</br>
 ### Tkinter
 Import the module - tkinter</br>
 #### Front end
+* Create a window win = Tk()
+* Create window geometry
+ > |win.geometry('n*m') <br/>

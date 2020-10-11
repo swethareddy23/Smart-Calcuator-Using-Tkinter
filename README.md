@@ -13,21 +13,19 @@ Calculate</br>
 Import the module - "tkinter"</br>
 #### Front end
 * Create a window win = Tk()</br>
-
-      > |--win = Tk() <br/>
+> |--win = Tk() <br/>
 * Create window geometry
-
-      > |--win.geometry('n*m') <br/> 
+> |--win.geometry('n*m') <br/> 
  
 * Create window title 
-      > |--win.title('title name')  <br/>
+> |--win.title('title name')  <br/>
  * Set the background colour
-      > |--win.configure(bg='colour') <br/>
+> |--win.configure(bg='colour') <br/>
   * Create labels for the window
   * Create buttons for the result 
   * Create the listbox to display the result on the window.
   * Create the windowed main loop
-      > |--win.mainloop() <br/>
+> |--win.mainloop() <br/>
    
    ## Math operations
    Define the functions for addition, subtraction, multiplication, modulus , division, HCF and other mathematical operations and return the values.

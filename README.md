@@ -12,6 +12,9 @@ Calculate</br>
 ### Tkinter
 Import the module - tkinter</br>
 #### Front end
-* Create a window win = Tk()
+* Create a window win = Tk()</br>
+ > |--win = Tk() <br/>
 * Create window geometry
- > |win.geometry('n*m') <br/>
+ > |--win.geometry('n*m') <br/>
+ 
+* Create window title 
